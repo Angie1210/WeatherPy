@@ -3,7 +3,7 @@
 In this project we created a Vacation Itinerary based on weather preferences. We will use OpenWeather and Google API's to retrieve information about weather conditons and geolocations. 
 
 ## Results
-* Randomly select 2000 latitudes and longitudes in order to search for over 500 cities around the world. [Link to Another File](API/cities_api)
+* Randomly select 2000 latitudes and longitudes in order to search for over 500 cities around the world. [code](API/cities_api.ipynb)
   
 * Get the Weather coditions for those cities using API's and then filter the cities by weather preferences.
 * Search for hotels in each one of the cities.
